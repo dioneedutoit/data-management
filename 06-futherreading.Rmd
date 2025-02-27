@@ -269,3 +269,19 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+
+## Six factors affecting reproducibility in life science research and how to handle them
+
+1.	Missing Data and Methods – If other researchers can’t access the original data, detailed methods, or key materials, they’re left guessing instead of properly repeating the experiment.
+2.	Bad or Contaminated Samples – If scientists are working with mislabelled or contaminated samples, their results can be completely off, making it impossible to get the same outcome twice.
+3.	Messy or Hard-to-Handle Data – Today’s research generates huge amounts of complex data, but not everyone has the right tools or training to analyse it correctly, leading to mistakes.
+4.	Sloppy Study Design – Poorly planned experiments, unclear methods, or not controlling for bias can make a study unreliable and hard to reproduce.
+5.	Human Bias – Scientists try to be objective, but unconscious biases—like favouring results that match their expectations—can lead to skewed findings.
+6.	Pressure to Publish Something New – The scientific world values exciting discoveries over confirming past research, so researchers often rush to publish flashy results instead of making sure they’re solid.
+
+link: https://www.nature.com/articles/d42473-019-00004-y
+
+> Contributor: Dionée
+
+
